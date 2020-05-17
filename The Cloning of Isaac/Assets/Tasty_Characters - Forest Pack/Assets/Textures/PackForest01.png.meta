@@ -1,0 +1,1947 @@
+fileFormatVersion: 2
+guid: b08e570699f1c8a4f9cc388204aef3bc
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: PackForest01_0
+    21300002: PackForest01_1
+    21300004: PackForest01_2
+    21300006: PackForest01_3
+    21300008: PackForest01_4
+    21300010: PackForest01_5
+    21300012: PackForest01_6
+    21300014: PackForest01_7
+    21300016: PackForest01_8
+    21300018: PackForest01_9
+    21300020: PackForest01_10
+    21300022: PackForest01_11
+    21300024: PackForest01_12
+    21300026: PackForest01_13
+    21300028: PackForest01_14
+    21300030: PackForest01_15
+    21300032: PackForest01_16
+    21300034: PackForest01_17
+    21300036: PackForest01_18
+    21300038: PackForest01_19
+    21300040: PackForest01_20
+    21300042: PackForest01_21
+    21300044: PackForest01_22
+    21300046: PackForest01_23
+    21300048: PackForest01_24
+    21300050: PackForest01_25
+    21300052: PackForest01_26
+    21300054: PackForest01_27
+    21300056: PackForest01_28
+    21300058: PackForest01_29
+    21300060: PackForest01_30
+    21300062: PackForest01_31
+    21300064: PackForest01_32
+    21300066: PackForest01_33
+    21300068: PackForest01_34
+    21300070: PackForest01_35
+    21300072: PackForest01_36
+    21300074: PackForest01_37
+    21300076: PackForest01_38
+    21300078: PackForest01_39
+    21300080: PackForest01_40
+    21300082: PackForest01_41
+    21300084: PackForest01_42
+    21300086: PackForest01_43
+    21300088: PackForest01_44
+    21300090: PackForest01_45
+    21300092: PackForest01_46
+    21300094: PackForest01_47
+    21300096: PackForest01_48
+    21300098: PackForest01_49
+    21300100: PackForest01_50
+    21300102: PackForest01_51
+    21300104: PackForest01_52
+    21300106: PackForest01_53
+    21300108: PackForest01_54
+    21300110: PackForest01_55
+    21300112: PackForest01_56
+    21300114: PackForest01_57
+    21300116: PackForest01_58
+    21300118: PackForest01_59
+    21300120: PackForest01_60
+    21300122: PackForest01_61
+    21300124: PackForest01_62
+    21300126: PackForest01_63
+    21300128: PackForest01_64
+    21300130: PackForest01_65
+    21300132: PackForest01_66
+    21300134: PackForest01_67
+    21300136: PackForest01_68
+    21300138: PackForest01_69
+    21300140: PackForest01_70
+    21300142: PackForest01_71
+    21300144: PackForest01_72
+    21300146: PackForest01_73
+    21300148: PackForest01_74
+    21300150: PackForest01_75
+    21300152: PackForest01_76
+    21300154: PackForest01_77
+    21300156: PackForest01_78
+    21300158: PackForest01_79
+    21300160: PackForest01_80
+    21300162: PackForest01_81
+    21300164: PackForest01_82
+    21300166: PackForest01_83
+    21300168: PackForest01_84
+    21300170: PackForest01_85
+    21300172: PackForest01_86
+    21300174: PackForest01_87
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PackForest01_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 862
+        width: 92
+        height: 107
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 911dc9c81c1d83d418976c2069ca167a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackForest01_1
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 862
+        width: 92
+        height: 121
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6f9bb1757a95b04d91b4ca8cb797419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackForest01_2
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 862
+        width: 123
+        height: 150
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab4f24ed565b11c46ad40d135cfd0531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackForest01_3
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 861
+        width: 96
+        height: 116
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1339ef835d95894488c5e6a26763ee1c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackForest01_4
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 862
+        width: 110
+        height: 115
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7267431668b541408f0a2859a25f5cc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackForest01_5
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 862
+        width: 116
+        height: 130
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6a002e276d61ec4d95dfa1092c2b13b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackForest01_6
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 862
+        width: 110
+        height: 130
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8acc139b2cf747f4abcd86dab8c0f2e0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackForest01_7
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 862
+        width: 97
+        height: 118
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 788f174fa6d7e2a4ca52cbf6e206465e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackForest01_8
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 862
+        width: 113
+        height: 145
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96548995822838445a283ddb649f3b40
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackForest01_9
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 785
+        width: 34
+        height: 20
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af88f85ba9c788e4ab58f58e10bc5e2f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackForest01_10
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 754
+        width: 119
+        height: 63
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 128485379eb9c1b4c9b33fc949c385a5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackForest01_11
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 733
+        width: 99
+        height: 55
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf9920a54e36d9f40bf007891a286533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackForest01_12
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 769
+        width: 10
+        height: 5
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a281d54ca7d26d94a96009442ae8bb1e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackForest01_13
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 734
+        width: 73
+        height: 48
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e0270fafcf896b41b2d3068b0e2a255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackForest01_14
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 718
+        width: 97
+        height: 56
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fbbb6ef470de84459e2fa369d44d1c2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackForest01_15
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 751
+        width: 11
+        height: 14
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b16447c02c3ca26439e9d4711f9df135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackForest01_16
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 704
+        width: 89
+        height: 57
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9d75cec9c9b3524cb4a3495a014878d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackForest01_17
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 735
+        width: 61
+        height: 28
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 557f4619bd3c0f94c8604f1cb35e5e9a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackForest01_18
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 718
+        width: 37
+        height: 43
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13841461e842f3e45b4b27962d764dff
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackForest01_19
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 718
+        width: 37
+        height: 43
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90e23d80b00d3714cbd9dd06de2e41a9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackForest01_20
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 696
+        width: 87
+        height: 73
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fb94cb94992f0741a5e751f1a41bff8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackForest01_21
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 739
+        width: 10
+        height: 4
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e4f058d87656d049bbf5d8c86f40f26
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackForest01_22
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 721
+        width: 16
+        height: 19
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 822cdcbd47d9d964380aede0ca7716c8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackForest01_23
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 680
+        width: 29
+        height: 44
+      alignment: 9
+      pivot: {x: 0.88096696, y: 0.8979936}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 176f04d8e5ecbd14bab5d85b525deb1c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackForest01_24
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 675
+        width: 62
+        height: 55
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c93c3dfbaca0a4498a90d46f8f812a7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackForest01_25
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 683
+        width: 19
+        height: 48
+      alignment: 9
+      pivot: {x: 0.37280273, y: 0.90409726}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fd393dce7d1fe240a0bbe9900d302c3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackForest01_26
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 721
+        width: 10
+        height: 4
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c376c0ff69e1b749965557ea2ccb434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackForest01_27
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 683
+        width: 73
+        height: 48
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ae180ab5aa07bc4989275d1d8ed2ab5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackForest01_28
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 697
+        width: 38
+        height: 34
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fbc66014b3abab45910563091cf6b7b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackForest01_29
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 701
+        width: 12
+        height: 15
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f1c93c771465d94f92092f26d0cce5f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackForest01_30
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 645
+        width: 35
+        height: 70
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d674b29963bd100428dd74f146f7450a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackForest01_31
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 672
+        width: 83
+        height: 36
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95f9f7db0b52b26499d297979b6c86ed
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackForest01_32
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 659
+        width: 26
+        height: 33
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de1d80ac418e64f40aea5fa6ab726d2a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackForest01_33
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 674
+        width: 14
+        height: 23
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6559c45201d013f4c9a7304a9a515fa1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackForest01_34
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 641
+        width: 66
+        height: 46
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02d6be3b4d309c3498f35c5c7e1f0093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackForest01_35
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 663
+        width: 62
+        height: 26
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 793a133a8dd360647936e4c0025dace0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackForest01_36
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 681
+        width: 24
+        height: 14
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17d207e6ef5fb6046972381595901738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackForest01_37
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 665
+        width: 12
+        height: 8
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c6aeedf9bfa8cc479ef9dd9e2b90e86
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackForest01_38
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 609
+        width: 85
+        height: 63
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8ff66c79e10ef74fa122b29b30e7a69
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackForest01_39
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 641
+        width: 66
+        height: 29
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 001356c6a98f1e3478bc5193c21afb86
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackForest01_40
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 623
+        width: 95
+        height: 58
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53073310b938b014daadad0b9cc6ca16
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackForest01_41
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 642
+        width: 62
+        height: 21
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6b4c2192a5ee3744af7ebd813e14244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackForest01_42
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 617
+        width: 75
+        height: 44
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83d8d703cb68de4429c6822ae790f231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackForest01_43
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 641
+        width: 9
+        height: 18
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65db2e42167a2184286357734b1df29e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackForest01_44
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 614
+        width: 66
+        height: 46
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05599eefc8c306b4ca1d312ae3d26ad2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackForest01_45
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 616
+        width: 6
+        height: 21
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81f32b39865bfa54bab2b389023ff3ee
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackForest01_46
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 616
+        width: 6
+        height: 23
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ef9e954d9fd2974595c7659cbc8b7d7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackForest01_47
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 593
+        width: 86
+        height: 18
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 259f7159d24c449458e5d9bfe317c101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackForest01_48
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 393
+        width: 110
+        height: 150
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ae2c5b09eb8ab746b22358bb8202aeb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackForest01_49
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 393
+        width: 88
+        height: 108
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee6b8ef67a50c7d42b05791e9563d9c0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackForest01_50
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 393
+        width: 109
+        height: 108
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c32e7f03460aa64e9fbf7d6eb1d5637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackForest01_51
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 393
+        width: 91
+        height: 128
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94a2d7afb592bda498eca0965080f19e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackForest01_52
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 393
+        width: 100
+        height: 140
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93232729aad26ee48ac9a4b3edafeeb3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackForest01_53
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 393
+        width: 113
+        height: 137
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b33e6b1f16e17d43b222602682b4753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackForest01_54
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 379
+        width: 140
+        height: 159
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2c95f83e837507418e7183f91e83560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackForest01_55
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 338
+        width: 29
+        height: 6
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3afa89096c46276409e2640e63a22a4c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackForest01_56
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 292
+        width: 100
+        height: 52
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1255b3276f48b2a4e9d63d574ca63735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackForest01_57
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 281
+        width: 112
+        height: 59
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67a29b3d355a4b147a63de18e7204722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackForest01_58
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 257
+        width: 110
+        height: 80
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50cf497f389879949aa2b0fcdec9afef
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackForest01_59
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 285
+        width: 73
+        height: 49
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e357050008dccfd439f0e6148e346b0e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackForest01_60
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 290
+        width: 66
+        height: 20
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d32ab2d99797174a9e6c28cfcd5f5bf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackForest01_61
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 263
+        width: 37
+        height: 47
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2ad76405a5c9f04488eec4dc005af45
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackForest01_62
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 293
+        width: 74
+        height: 41
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a704468665356dc41be33ec9b1533f6f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackForest01_63
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 302
+        width: 101
+        height: 36
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cef919c021441414cae32af7ab5ea512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackForest01_64
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 246
+        width: 87
+        height: 34
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3d16d1f91033784a816ff2f1a6a2c2c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackForest01_65
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 253
+        width: 83
+        height: 27
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d25b21fc15d247458427bb36b03ee27
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackForest01_66
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 277
+        width: 67
+        height: 17
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0d137bbe639a5f4a9fc0e179fb3032e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackForest01_67
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 245
+        width: 36
+        height: 47
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 313b2f9e39f664e4fa81b7eda5f59b1e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackForest01_68
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 222
+        width: 66
+        height: 46
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f572548c69db128478aaebc50313bcff
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackForest01_69
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 240
+        width: 85
+        height: 35
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c43dd58a7cec16643865336e744b5802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackForest01_70
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 263
+        width: 39
+        height: 10
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75104c02bd765ee409d1af7e42c3d46f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackForest01_71
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 216
+        width: 92
+        height: 26
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c10c659e3815aab47b37d6b6cc3cc54c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackForest01_72
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 166
+        width: 87
+        height: 74
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33e84ff10b2b98d449a538c43b55ddd6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackForest01_73
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 214
+        width: 67
+        height: 46
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 816da9c866537c2449102d354d4b958d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackForest01_74
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 202
+        width: 65
+        height: 37
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19667af6afc43da48ba13f88724139a1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackForest01_75
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 205
+        width: 65
+        height: 28
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c92723a382e6874439670390fc8ef900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackForest01_76
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 195
+        width: 66
+        height: 57
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ced9b1c11c3157f4d92d14724450941c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackForest01_77
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 183
+        width: 65
+        height: 28
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3a0caa1f87e74a44b17e7030c6e6497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackForest01_78
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 158
+        width: 22
+        height: 15
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43befe6187a0e9a4aa8a6a944e154fb4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackForest01_79
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 154
+        width: 24
+        height: 21
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a2cf8eb19375c646a7956171a01ac42
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackForest01_80
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 127
+        width: 46
+        height: 39
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a16cb211b402b5f4fa21e47c323865db
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackForest01_81
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 114
+        width: 29
+        height: 29
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c348567e4cdcdb7459c9a391ad966df8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackForest01_82
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 69
+        width: 58
+        height: 76
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43e2052b80da3924089eb631d7f69b68
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackForest01_83
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 59
+        width: 74
+        height: 62
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f08789d10c308141b3370788a3f1eeb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackForest01_84
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 67
+        width: 19
+        height: 33
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40aec4f0dbf64bc48833b0d6f5f739e0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackForest01_85
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 25
+        width: 10
+        height: 30
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31b75a00382999b46a172c7c72239638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackForest01_86
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 25
+        width: 9
+        height: 29
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f77118ccc577ac40826eb08fafd4814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PackForest01_87
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 624
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b4006f671923724da2911ede488ca28
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
