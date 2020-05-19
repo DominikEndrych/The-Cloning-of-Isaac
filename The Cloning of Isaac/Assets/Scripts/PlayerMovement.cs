@@ -10,20 +10,30 @@ public class PlayerMovement : MonoBehaviour
 
     private Vector2 movement;
 
-    // Start is called before the first frame update
-    void Start()
-    {
-        
-    }
-
-    // Update is called once per frame
     void Update()
     {
-        movement = new Vector2(Input.GetAxis("Horizontal"), Input.GetAxis("Vertical"));
+        float horizontal = Input.GetAxis("Horizontal");
+        float vertical = Input.GetAxis("Vertical");
+
+        this.FlipModel(Input.GetAxis("ShootingHorizontal"));
+
+        movement = new Vector2(horizontal, vertical);
     }
 
     private void FixedUpdate()
     {
         player.MovePosition(player.position + movement * speed * Time.fixedDeltaTime);
+    }
+
+    private void FlipModel(float horizontal)
+    {
+        if (horizontal > 0)
+        {
+            gameObject.transform.localScale = new Vector3(-1, 1, 1);
+        }
+        else if (horizontal < 0)
+        {
+            gameObject.transform.localScale = new Vector3(1, 1, 1);
+        }
     }
 }

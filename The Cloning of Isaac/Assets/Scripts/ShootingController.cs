@@ -4,11 +4,12 @@ using UnityEngine;
 
 public class ShootingController : MonoBehaviour
 {
+
     [SerializeField] GameObject bullet;     // bullet placeholder
 
-    [SerializeField] Transform origin;
+    public float timeBetweenShots = 0.333f; // 3 shots per second
 
-    private float timeBetweenShots = 0.333f;    // 3 shots per second
+    [SerializeField] Transform origin;
 
     private float timestamp;
 
@@ -20,7 +21,7 @@ public class ShootingController : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (Time.time >= timestamp && Input.GetKey(KeyCode.Space))
+        if (Time.time >= timestamp && (Input.GetAxis("ShootingVertical") != 0 || Input.GetAxis("ShootingHorizontal") != 0))
         {
             Instantiate(bullet, origin.position, transform.rotation);
             timestamp = Time.time + timeBetweenShots;
