@@ -8,31 +8,30 @@ public class EnemyMovement : MonoBehaviour
     public float speed = 1;
 
     [SerializeField] bool followPlayer = true;
-    [SerializeField] Transform player;
+    [SerializeField] Transform player = null;
 
 
     private Vector3 direction;
-
-    // Start is called before the first frame update
-    void Start()
-    {
-        
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-        if (followPlayer)
-        {
-            direction = (player.position - transform.position).normalized;
-        } 
-    }
 
     private void FixedUpdate()
     {
         if (followPlayer)
         {
-            gameObject.transform.position = transform.position + direction * speed * Time.deltaTime;
+            //gameObject.transform.position = transform.position + direction * speed * Time.deltaTime;
+            this.FlipModel(player.position.x - transform.position.x);
+            transform.position = Vector2.MoveTowards(transform.position, player.position, speed * Time.deltaTime);
+        }
+    }
+
+    private void FlipModel(float horizontal)
+    {
+        if (horizontal > 0)
+        {
+            gameObject.transform.localScale = new Vector3(-1, 1, 1);
+        }
+        else if (horizontal < 0)
+        {
+            gameObject.transform.localScale = new Vector3(1, 1, 1);
         }
     }
 }

@@ -478,8 +478,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7b32a13a8efd60348b245468721857c2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 1
-  followPlayer: 1
+  speed: 1.4
+  followPlayer: 0
   player: {fileID: 1037380963}
 --- !u!50 &1864434889
 Rigidbody2D:
@@ -518,6 +518,19 @@ CapsuleCollider2D:
   m_Offset: {x: 0.038629174, y: -0.60818756}
   m_Size: {x: 0.70549226, y: 1.1436617}
   m_Direction: 0
+--- !u!114 &1864434891
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1864434887}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cecdb244511af6c48af5f419e3af1bf5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  HP: 4
 --- !u!1 &1945823381
 GameObject:
   m_ObjectHideFlags: 0

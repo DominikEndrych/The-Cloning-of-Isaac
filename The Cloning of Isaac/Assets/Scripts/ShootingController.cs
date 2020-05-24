@@ -5,18 +5,13 @@ using UnityEngine;
 public class ShootingController : MonoBehaviour
 {
 
-    [SerializeField] GameObject bullet;     // bullet placeholder
+    [SerializeField] GameObject bullet = null;     // bullet placeholder
 
     public float timeBetweenShots = 0.333f; // 3 shots per second
 
-    [SerializeField] Transform origin;
+    [SerializeField] Transform origin = null;
 
     private float timestamp;
-
-    void Start()
-    {
-        
-    }
 
     // Update is called once per frame
     void Update()
