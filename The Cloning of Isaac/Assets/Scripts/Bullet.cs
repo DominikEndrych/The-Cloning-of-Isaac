@@ -17,6 +17,8 @@ public class Bullet : MonoBehaviour
         rb = gameObject.GetComponent<Rigidbody2D>();
         startTimestamp = Time.time;
 
+        damage *= GameObject.FindGameObjectWithTag("Player").GetComponent<PlayerController>().damageMultiplier; //additional damage from player
+
         float dirVertical = Input.GetAxis("ShootingVertical");
         float dirHorizontal = Input.GetAxis("ShootingHorizontal");
 
@@ -42,9 +44,8 @@ public class Bullet : MonoBehaviour
             if (other.gameObject.CompareTag("Enemy"))
             {
                 other.gameObject.GetComponent<EnemyController>().Hit(damage);
-            }
-
-            Destroy(gameObject);
+                Destroy(gameObject);
+            } 
         }
     }
 }

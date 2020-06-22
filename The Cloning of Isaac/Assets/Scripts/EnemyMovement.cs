@@ -17,6 +17,7 @@ public class EnemyMovement : MonoBehaviour
     {
         if (followPlayer)
         {
+            gameObject.GetComponent<Rigidbody2D>().velocity = Vector3.zero;
             //gameObject.transform.position = transform.position + direction * speed * Time.deltaTime;
             this.FlipModel(player.position.x - transform.position.x);
             transform.position = Vector2.MoveTowards(transform.position, player.position, speed * Time.deltaTime);

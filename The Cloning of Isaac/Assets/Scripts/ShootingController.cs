@@ -21,5 +21,6 @@ public class ShootingController : MonoBehaviour
             Instantiate(bullet, origin.position, transform.rotation);
             timestamp = Time.time + timeBetweenShots;
         }
+
     }
 }
